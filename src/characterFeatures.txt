@@ -1,0 +1,252 @@
+Adam
+Adam.jpg
+male
+no glasses
+smile
+hat
+old
+fat
+white skin
+brown hair
+blue eyes
+no beard
+no mustache
+#
+Brenda
+Brenda.jpg
+female
+glasses
+no smile
+no hat
+old
+fat
+white skin
+black hair
+green eyes
+no beard
+no mustache
+#
+Charlie
+Charlie.jpg
+male
+glasses
+smile
+no hat
+old
+thin
+white skin
+blonde hair
+blue eyes
+beard
+no mustache
+#
+David
+David.jpg
+male
+no glasses
+smile
+no hat
+old
+fat
+dark skin
+black hair
+brown eyes
+no beard
+mustache
+#
+Denise
+Denise.jpg
+female
+glasses
+no smile
+no hat
+young
+thin
+white skin
+brown hair
+blue eyes
+no beard
+no mustache
+#
+Frank
+Frank.jpg
+male
+no glasses
+smile
+no hat
+young
+thin
+dark skin
+bald
+brown eyes
+no beard
+no mustache
+#
+Giselle
+Giselle.jpg
+female
+glasses
+no smile
+no hat
+young
+thin
+white skin
+blonde hair
+blue eyes
+no beard
+no mustache
+#
+Heidi
+Heidi.jpg
+female
+glasses
+smile
+hat
+old
+fat
+white skin
+brown hair
+brown eyes
+no beard
+no mustache
+#
+Kathy
+Kathy.jpg
+female
+no glasses
+no smile
+no hat
+young
+thin
+white skin
+brown hair
+brown eyes
+no beard
+no mustache
+#
+Kevin
+Kevin.jpg
+male
+glasses
+smile
+no hat
+old
+fat
+white skin
+bald
+brown eyes
+no beard
+no mustache
+#
+Lucas
+Lucas.jpg
+male
+no glasses
+smile
+hat
+old
+fat
+white skin
+black hair
+brown eyes
+no beard
+no mustache
+#
+Matthew
+Matthew.jpg
+male
+no glasses
+smile
+no hat
+young
+thin
+dark skin
+black hair
+green eyes
+no beard
+no mustache
+#
+Petra
+Petra.jpg
+female
+no glasses
+no smile
+hat
+young
+thin
+white skin
+black hair
+blue eyes
+no beard
+no mustache
+#
+Raymond
+Raymond.jpg
+male
+glasses
+smile
+no hat
+young
+fat
+white skin
+bald
+green eyes
+no beard
+mustache
+#
+Sophia
+Sophia.jpg
+female
+no glasses
+no smile
+hat
+young
+thin
+white skin
+blonde hair
+blue eyes
+no beard
+no mustache
+#
+Steven
+Steven.jpg
+male
+no glasses
+smile
+hat
+young
+fat
+white skin
+blonde hair
+green eyes
+no beard
+no mustache
+#
+Tamsin
+Tamsin.jpg
+female
+no glasses
+no smile
+no hat
+young
+thin
+white skin
+blonde hair
+green eyes
+no beard
+no mustache
+#
+Yvette
+Yvette.jpg
+female
+no glasses
+no smile
+no hat
+young
+fat
+dark skin
+brown hair
+brown eyes
+no beard
+no mustache
+<EOF>

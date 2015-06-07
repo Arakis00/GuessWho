@@ -1,0 +1,162 @@
+Adam
+src//Images//Adam.jpg
+male
+no glasses
+brown hair
+blue eyes
+no beard
+no mustache
+#
+Brenda
+src//Images//Brenda.jpg
+female
+glasses
+black hair
+green eyes
+no beard
+no mustache
+#
+Charlie
+src//Images//Charlie.jpg
+male
+glasses
+blonde hair
+blue eyes
+beard
+no mustache
+#
+David
+src//Images//David.jpg
+male
+no glasses
+black hair
+brown eyes
+no beard
+mustache
+#
+Denise
+src//Images//Denise.jpg
+female
+glasses
+brown hair
+blue eyes
+no beard
+no mustache
+#
+Frank
+src//Images//Frank.jpg
+male
+no glasses
+bald
+brown eyes
+no beard
+no mustache
+#
+Giselle
+src//Images//Giselle.jpg
+female
+glasses
+blonde hair
+blue eyes
+no beard
+no mustache
+#
+Heidi
+src//Images//Heidi.jpg
+female
+glasses
+brown hair
+brown eyes
+no beard
+no mustache
+#
+Kathy
+src//Images//Kathy.jpg
+female
+no glasses
+brown hair
+brown eyes
+no beard
+no mustache
+#
+Kevin
+src//Images//Kevin.jpg
+male
+glasses
+bald
+brown eyes
+no beard
+no mustache
+#
+Lucas
+src//Images//Lucas.jpg
+male
+no glasses
+black hair
+brown eyes
+no beard
+no mustache
+#
+Matthew
+src//Images//Matthew.jpg
+male
+no glasses
+black hair
+green eyes
+no beard
+no mustache
+#
+Petra
+src//Images//Petra.jpg
+female
+no glasses
+black hair
+blue eyes
+no beard
+no mustache
+#
+Raymond
+src//Images//Raymond.jpg
+male
+glasses
+bald
+green eyes
+no beard
+mustache
+#
+Sophia
+src//Images//Sophia.jpg
+female
+no glasses
+blonde hair
+blue eyes
+no beard
+no mustache
+#
+Steven
+src//Images//Steven.jpg
+male
+no glasses
+blonde hair
+green eyes
+no beard
+no mustache
+#
+Tamsin
+src//Images//Tamsin.jpg
+female
+no glasses
+blonde hair
+green eyes
+no beard
+no mustache
+#
+Yvette
+src//Images//Yvette.jpg
+female
+no glasses
+brown hair
+brown eyes
+no beard
+no mustache
+<EOF>
